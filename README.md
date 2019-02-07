@@ -8,10 +8,6 @@ School Email:	smonroe@student.42.us.org
 
 Personal Email:	scmonroe96@gmail.com
 
-(941) 726 - 1302
-
-smonroe@student.42.us.org
-
 ## Education
 
 ### Locations
