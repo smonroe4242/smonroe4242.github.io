@@ -30,14 +30,52 @@ Personal Email:	scmonroe96@gmail.com
 
 - Experienced with and enthusiastic about stress-testing software for edge cases and finding weak points in program architecture
 
-- Sharp, focused, and unrelentingly solution-oriented.
+- Sharp, focused, and unrelentingly solution-oriented
 
-## Projects
 
-### C99
+# Showcase Project Rough Draft
+## Corewar
+- This project is an implementation of an assembler and virtual machine in the style of Corewar(Jones, Dewdney, 1984)
+- This project was written to C99 standard within Ecole 42's Norminette code style constraints
+	- 80 character line limit
+	- 25 lines per function
+	- 5 functions per file
+	- Emphasis on readability and modularity in code
+	- No `for`, `do while`, or `switch case`
+	- Several other code style restrictions
+- Only the following 11 standard library functions were allowed, the rest had to be implemented in pure C99
+	- open, read, write, lseek, close
+	- malloc, realloc, free
+	- perror, strerror, exit
+- This is a group project, with three official members
+
+### The Assembler:
+- Rules for a language containing 16 operations, each capable of taking 0 - 3 arguments
+- Label system capable of forward and backward declarations
+- Two pass system:
+	- Instructions are digested in to machine code as encountered
+	- Label addresses are calculated as encountered and stored seperately
+	- Label references are filled with 0 in machine code buffer
+	- Blanks are filled with address offsets in second pass with known table of labels
+- Upon syntax error, message is printed containing the bad syntax and line number in file
+- If error occurs, all memory is cleared and freed and no file is created or written to
+
+### The Virtual Machine:
+- Simulated parallel execution of 1 to 4 assembly programs, referred to as 'champions'
+- Shared memory space where champions are loaded and run
+- 16 32-bit registers and a carry flag
+- Access to 16 operations specified by the language which act on shared memory and local registers
+	- Original Redcode mimicked CISC instruction set
+	- Language specification for the project is modified to be more of a hassle to code in
+- Multiple program counters or PC's, initially one for each champion
+- Capability to accomodate an arbitrary amount, with PC's being added and removed frequently
+- Order in which PC's are created is significant and so needs to remain intact
+
+# Projects
+
+## C99
 
 * [Corewar](https://github.com/smonroe4242/Corewar)
-
 
 	- Virtual Machine capable of running 1 - 4 assembly programs
 	- Built assembler capable of producing executable files from source code
@@ -65,7 +103,7 @@ Personal Email:	scmonroe96@gmail.com
 	- First project completed at school to gain in depth understanding of C language
 	- Currently expanded to 82 functions to date and growing
 
-### C++98
+## C++98
 
 * [ft_retro](https://github.com/smonroe4242/ft_retro)
 
