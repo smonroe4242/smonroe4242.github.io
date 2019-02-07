@@ -6,10 +6,13 @@
 
 ## Contact
 
-Phone Number   :	(941) 726-1302
-School Email   :	smonroe@student.42.us.org
-Personal Email :	scmonroe96@gmail.com
-Github Repos   :	https://github.com/smonroe4242
+Phone Number:	(941) 726-1302
+
+School Email:	smonroe@student.42.us.org
+
+Personal Email:	scmonroe96@gmail.com
+
+Github:	https://github.com/smonroe4242
 
 ## Projects
 ```
@@ -39,9 +42,11 @@ Libft
 	Expanded to 82 functions currently;
 }
 ```
+
 ## Education
 
-- **42 School Silicon Valley** March 2018 - Current; 
+- **42 School Silicon Valley**
+-- March 2018 - Current; 
 
 **Bold** and _Italic_ and `Code` text
 
