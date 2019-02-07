@@ -10,7 +10,7 @@ Personal Email:	scmonroe96@gmail.com
 
 ## Education
 
-- **42 School Silicon Valley**
+- **42 School Silicon Valley** (Ecole 42)
 	- March 2018 - Current
 - State College of Florida
 	- August 2010 - December 2017
@@ -27,7 +27,7 @@ Personal Email:	scmonroe96@gmail.com
 # Showcase Project Rough Draft
 ## [Corewar](https://github.com/smonroe4242/Corewar)
 - This **group project** is an implementation of an assembler and virtual machine in the style of Corewar(Jones, Dewdney, 1984)
-- This project was written to **C99 standard** within Ecole 42's Norminette code style constraints
+- This project was written in **standard C99** within Norm, Ecole 42's **programming standard**
 	- 80 character line limit
 	- 25 lines per function
 	- 5 functions per file
@@ -44,10 +44,10 @@ Personal Email:	scmonroe96@gmail.com
 - Label system capable of **forward and backward declarations**
 - Two pass system:
 	- Instructions are digested into machine code as encountered
-	- Label addresses are calculated as encountered and stored seperately
-	- Label references are filled with 0 in machine code buffer
-	- Blanks are filled with address offsets in second pass with known table of labels
-- Upon syntax error, message is printed containing the bad syntax and line number in file
+	- Label addresses are calculated and stored seperately
+	- Label references are filled with 0's in the outfile buffer
+	- Blanks are filled with address offsets in second pass using table of labels
+- Upon syntax error, message is printed containing the failing syntax and line number in file
 - If error occurs, **all memory is cleared and freed** and no file is created or written to
 
 ### The Virtual Machine:
@@ -56,7 +56,7 @@ Personal Email:	scmonroe96@gmail.com
 - 16 32-bit registers and a carry flag
 - Access to 16 operations specified by the language which act on shared memory and local registers
 	- Original Redcode mimicked **CISC instruction set**
-	- Language specification for the project is modified to be more of a hassle to code in
+	- Language specification for the project is modified to be more of a **hassle** to code in
 - Multiple program counters or PC's, initially one for each champion
 - Capability to accomodate an **arbitrary amount**, with PC's being added and removed frequently
 - Order in which PC's are created is significant and so needs to remain intact
@@ -72,7 +72,7 @@ Personal Email:	scmonroe96@gmail.com
 	- Sorting algorithm comparisons and **optimization**
 	- Recursive, statistical, dynamic programming exercises
 	- In-depth understanding of **Big O notation** and time and space complexities
-	- 16 total whiteboard interview session alternating roles
+	- 16 whiteboard interview sessions completed while alternating roles
 
 * [ft_ssl_md5](https://github.com/smonroe4242/ft_ssl_md5)
 
@@ -83,7 +83,7 @@ Personal Email:	scmonroe96@gmail.com
 * [Libft](https://github.com/smonroe4242/libft)
 
 	- C99 standard library implementation
-	- First project completed at school to gain a ground-up understanding of C language
+	- First project completed at Ecole 42 to gain a **ground-up understanding** of C language
 	- Currently expanded to 82 functions to date and growing
 
 ## C++98
