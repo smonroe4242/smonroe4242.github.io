@@ -91,7 +91,8 @@ Personal Email:	scmonroe96@gmail.com
 
 * [ft_retro](https://github.com/smonroe4242/ft_retro)
 
-	- Ncurses arcade shooter for terminal
+	- Single player arcade shooter for terminal
+	- Object oriented with an ncurses based engine
 	- **12 hour** project
 
 * [ft_gkrellm](https://github.com/smonroe4242/ft_gkrellm)
@@ -103,8 +104,9 @@ Personal Email:	scmonroe96@gmail.com
 
 # Personal Skills
 
-- Strong communicator: meticulous listening and careful planning while dynamically allocating team fworkload
-- Well-developed process for communicating about software development and design in clear and explicit ways from peer to peer learning system
-- Home-grown self-motivated learner, worker, and maker, coming from an entirely self-driven education
-- Experienced with and enthusiastic about stress-testing software for edge cases and finding weak points in program architecture
-- Sharp, focused, and unrelentingly solution-oriented
+- Clear and conscise communicator concerning software development and design thanks to a peer to peer education system
+- Self-motivated learner worker and maker with a project based self-driven educational background
+- Passionate about stress-testing software and finding bottlenecks and flaws in program architecture
+- Skilled, practiced, and excited with the dubugging process
+- Often sought out by peers for help finding, explaining, and fixing bugs in software
+- Unwavering solution oriented thought process towards project completion
