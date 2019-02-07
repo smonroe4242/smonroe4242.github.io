@@ -1,19 +1,51 @@
-## Welcome to GitHub Pages
+## Steven Monroe, Software Developer
 
-You can use the [editor on GitHub](https://github.com/smonroe4242/smonroe4242.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[editor on GitHub](https://github.com/smonroe4242/smonroe4242.github.io/edit/master/README.md)
+[Jekyll](https://jekyllrb.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-### Contact
+## Contact
 
-### Projects
+Phone Number   :	(941) 726-1302
+School Email   :	smonroe@student.42.us.org
+Personal Email :	scmonroe96@gmail.com
+Github Repos   :	https://github.com/smonroe4242
 
-### Education
+## Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Corewar
+{
 
+}
+
+ft_ssl_md5
+{
+
+}
+
+Piscine Starfleet
+{
+
+}
+
+C++ Piscine
+{
+
+}
+
+Libft
+{
+	C99 standard library implementation;
+	Expanded to 82 functions currently;
+}
+
+## Education
+
+- **42 School Silicon Valley** March 2018 - Current; 
+
+```
 markdown
 Syntax highlighted code block
-
+```
 # Header 1
 ## Header 2
 ### Header 3
@@ -25,16 +57,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smonroe4242/smonroe4242.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+[repository settings](https://github.com/smonroe4242/smonroe4242.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[documentation](https://help.github.com/categories/github-pages-basics/)
+[contact support](https://github.com/contact)
