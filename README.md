@@ -34,7 +34,7 @@ smonroe@student.42.us.org
 
 - Experienced with and enthusiastic about stress-testing software for edge cases and finding weak points in program architecture
 
-- Sharp, focused, and unrelentingly solution-oriented. Yeah, I'm that guy.
+- Sharp, focused, and unrelentingly solution-oriented.
 
 ## Projects
 
