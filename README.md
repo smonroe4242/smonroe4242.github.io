@@ -15,7 +15,7 @@ Personal Email:	scmonroe96@gmail.com
 - State College of Florida
 	- August 2010 - December 2017
 - New College of Florida
-	- August 2015 - May 2018
+	- August 2015 - May 2017
 - HarvardX Online CS50 course
 	- Spring 2012
 
@@ -104,9 +104,10 @@ Personal Email:	scmonroe96@gmail.com
 
 # Personal Skills
 
-- Clear and conscise communicator concerning software development and design thanks to a peer to peer education system
 - Self-motivated learner worker and maker with a project based self-driven educational background
-- Passionate about stress-testing software and finding bottlenecks and flaws in program architecture
-- Skilled, practiced, and excited with the dubugging process
+- Clear and conscise communicator concerning software development and design thanks to a peer to peer education system
 - Often sought out by peers for help finding, explaining, and fixing bugs in software
-- Unwavering solution oriented thought process towards project completion
+- The most common question I recieve is `Hey Steven, can you come try and break this?` and the answer is always yes
+- Passionate about stress-testing software and exercising deep corner cases
+- Skilled, practiced, and excited with the dubugging process
+
