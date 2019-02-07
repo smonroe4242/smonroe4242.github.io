@@ -24,7 +24,7 @@ Personal Email:	scmonroe96@gmail.com
 - C99
 - C++98
 
-# Showcase Project Rough Draft
+# Showcase Project
 ## [Corewar](https://github.com/smonroe4242/Corewar)
 - This **group project** is an implementation of an assembler and virtual machine in the style of Corewar(Jones, Dewdney, 1984)
 - This project was written in **standard C99** within Norm, Ecole 42's **programming standard**
@@ -100,7 +100,7 @@ Personal Email:	scmonroe96@gmail.com
 	- **Dynamic user interface** serving system call information
 	- 38 hour project
 
-## Personal Skills
+# Personal Skills
 
 - Strong communicator: meticulous listening and careful planning while dynamically allocating team fworkload
 - Well-developed process for communicating about software development and design in clear and explicit ways from peer to peer learning system
