@@ -104,10 +104,9 @@ Personal Email:	scmonroe96@gmail.com
 
 # Personal Skills
 
-- Self-motivated learner worker and maker with a project based self-driven educational background
 - Clear and conscise communicator concerning software development and design thanks to a peer to peer education system
+- The most common question I recieve is `Hey Steven, can you come break this?` and the answer is always yes
+- Self-motivated learner worker and maker with a project based self-driven educational background
 - Often sought out by peers for help finding, explaining, and fixing bugs in software
-- The most common question I recieve is `Hey Steven, can you come try and break this?` and the answer is always yes
 - Passionate about stress-testing software and exercising deep corner cases
 - Skilled, practiced, and excited with the dubugging process
-
