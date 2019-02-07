@@ -27,6 +27,7 @@ Personal Email:	scmonroe96@gmail.com
 # Showcase Project
 ## [Corewar](https://github.com/smonroe4242/Corewar)
 - This **group project** is an implementation of an assembler and virtual machine in the style of Corewar(Jones, Dewdney, 1984)
+
 - This project was written in **standard C99** within Norm, Ecole 42's **programming standard**
 	- 80 character line limit
 	- 25 lines per function
@@ -73,7 +74,7 @@ Personal Email:	scmonroe96@gmail.com
 	- Recursive, statistical, dynamic programming exercises
 	- In-depth understanding of **Big O notation** and time and space complexities
 	- 16 whiteboard interview sessions completed while alternating roles
-
+	
 * [ft_ssl_md5](https://github.com/smonroe4242/ft_ssl_md5)
 
 	- OpenSSL implementation in C
@@ -85,7 +86,7 @@ Personal Email:	scmonroe96@gmail.com
 	- C99 standard library implementation
 	- First project completed at Ecole 42 to gain a **ground-up understanding** of C language
 	- Currently expanded to 82 functions to date and growing
-
+	
 ## C++98
 
 * [ft_retro](https://github.com/smonroe4242/ft_retro)
