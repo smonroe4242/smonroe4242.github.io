@@ -14,23 +14,17 @@ Personal Email:	scmonroe96@gmail.com
 	- August 2010 - December 2017
 - New College of Florida
 	- August 2015 - May 2018
+- HarvardX Online CS50 course
+	- Spring 2012
 
-### Languages
+## Languages
 
 - C99
 - C++98
 
-## Personal Skills
-
-- Strong communicator: meticulous listening and careful planning while dynamically allocating team fworkload
-- Well-developed process for communicating about software development and design in clear and explicit ways from peer to peer learning system
-- Home-grown self-motivated learner, worker, and maker, coming from an entirely self-driven education
-- Experienced with and enthusiastic about stress-testing software for edge cases and finding weak points in program architecture
-- Sharp, focused, and unrelentingly solution-oriented
-
 # Showcase Project Rough Draft
-## Corewar
-- This project is an implementation of an assembler and virtual machine in the style of Corewar(Jones, Dewdney, 1984)
+## [Corewar](https://github.com/smonroe4242/Corewar)
+- This **group project** is an implementation of an assembler and virtual machine in the style of Corewar(Jones, Dewdney, 1984)
 - This project was written to **C99 standard** within Ecole 42's Norminette code style constraints
 	- 80 character line limit
 	- 25 lines per function
@@ -42,13 +36,12 @@ Personal Email:	scmonroe96@gmail.com
 	- open, read, write, lseek, close
 	- malloc, realloc, free
 	- perror, strerror, exit
-- This is a group project, with three official members
 
 ### The Assembler:
 - Rules for a language containing 16 operations, each capable of taking 0 - 3 arguments
 - Label system capable of **forward and backward declarations**
 - Two pass system:
-	- Instructions are digested in to machine code as encountered
+	- Instructions are digested into machine code as encountered
 	- Label addresses are calculated as encountered and stored seperately
 	- Label references are filled with 0 in machine code buffer
 	- Blanks are filled with address offsets in second pass with known table of labels
@@ -70,19 +63,6 @@ Personal Email:	scmonroe96@gmail.com
 
 ## C99
 
-* [Corewar](https://github.com/smonroe4242/Corewar)
-
-	- Virtual Machine capable of running 1 - 4 assembly programs
-	- Built assembler capable of producing executable files from source code
-	- 3 person group project, built in style of 1984 Corewar game
-	- Currently in debugging phase
-
-* [ft_ssl_md5](https://github.com/smonroe4242/ft_ssl_md5)
-
-	- OpenSSL implementation in C
-	- MD5 and SHA256 hashing algorithms currently implemented
-	- **Modular codebase** with a focus on **extensibility** and **reusability** of functions
-
 * [Piscine Starfleet](https://github.com/smonroe4242/Piscine_Starfleet)
 
 	- Two week advanced intensive curriculum on intelligent **algorithm implementation and application**
@@ -91,6 +71,12 @@ Personal Email:	scmonroe96@gmail.com
 	- Recursive, statistical, dynamic programming exercises
 	- In-depth understanding of **Big O notation** and time and space complexities
 	- 16 total whiteboard interview session alternating roles
+
+* [ft_ssl_md5](https://github.com/smonroe4242/ft_ssl_md5)
+
+	- OpenSSL implementation in C
+	- MD5 and SHA256 hashing algorithms currently implemented
+	- **Modular codebase** with a focus on **extensibility** and **reusability** of functions
 
 * [Libft](https://github.com/smonroe4242/libft)
 
@@ -111,3 +97,11 @@ Personal Email:	scmonroe96@gmail.com
 	- Ncurses TUI and SFML GUI modes
 	- **Dynamic user interface** serving system call information
 	- 38 hour project
+
+## Personal Skills
+
+- Strong communicator: meticulous listening and careful planning while dynamically allocating team fworkload
+- Well-developed process for communicating about software development and design in clear and explicit ways from peer to peer learning system
+- Home-grown self-motivated learner, worker, and maker, coming from an entirely self-driven education
+- Experienced with and enthusiastic about stress-testing software for edge cases and finding weak points in program architecture
+- Sharp, focused, and unrelentingly solution-oriented
