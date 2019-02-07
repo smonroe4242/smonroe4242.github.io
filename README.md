@@ -8,6 +8,16 @@ School Email:	smonroe@student.42.us.org
 
 Personal Email:	scmonroe96@gmail.com
 
+## Education
+
+- **42 School Silicon Valley**
+	- March 2018 - Current; 
+
+### Languages
+
+- C99
+- C++98
+
 ## Projects
 
 ### C99
@@ -57,12 +67,6 @@ Personal Email:	scmonroe96@gmail.com
 	- Ncurses TUI and SFML GUI modes
 	- Dynamic interface serving system call information
 	- 38 hour project
-
-
-## Education
-
-- **42 School Silicon Valley**
-	- March 2018 - Current; 
 
 ## Personal Skills
 
