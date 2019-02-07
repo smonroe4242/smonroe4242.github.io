@@ -10,6 +10,8 @@ Personal Email:	scmonroe96@gmail.com
 
 ## Education
 
+### Locations
+
 - **42 School Silicon Valley**
 	- March 2018 - Current; 
 
