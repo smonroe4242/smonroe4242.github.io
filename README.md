@@ -8,6 +8,10 @@ School Email:	smonroe@student.42.us.org
 
 Personal Email:	scmonroe96@gmail.com
 
+(941) 726 - 1302
+
+smonroe@student.42.us.org
+
 ## Education
 
 ### Locations
@@ -20,18 +24,29 @@ Personal Email:	scmonroe96@gmail.com
 - C99
 - C++98
 
+## Personal Skills
+
+- Strong communicator: meticulous listening and careful planning while dynamically allocating team fworkload
+
+- Well-developed process for communicating about software development and design in clear and explicit ways from peer to peer learning system
+
+- Home-grown self-motivated learner, worker, and maker, coming from an entirely self-driven education
+
+- Experienced with and enthusiastic about stress-testing software for edge cases and finding weak points in program architecture
+
+- Sharp, focused, and unrelentingly solution-oriented. Yeah, I'm that guy.
+
 ## Projects
 
 ### C99
 
-
 * [Corewar](https://github.com/smonroe4242/Corewar)
 
+
 	- Virtual Machine capable of running 1 - 4 assembly programs
-	- Assembler capable of producing executable files from source
-	- 3 person group project
-	- Built in style of 1984 Corewar game
-	- Currently in debugging phasse
+	- Built assembler capable of producing executable files from source code
+	- 3 person group project, built in style of 1984 Corewar game
+	- Currently in debugging phase
 
 * [ft_ssl_md5](https://github.com/smonroe4242/ft_ssl_md5)
 
@@ -52,11 +67,9 @@ Personal Email:	scmonroe96@gmail.com
 
 	- C99 standard library implementation
 	- First project completed at school to gain in depth understanding of C language
-	- Currently expanded to 82 functions to date and growing.
-
+	- Currently expanded to 82 functions to date and growing
 
 ### C++98
-
 
 * [ft_retro](https://github.com/smonroe4242/ft_retro)
 
@@ -69,15 +82,3 @@ Personal Email:	scmonroe96@gmail.com
 	- Ncurses TUI and SFML GUI modes
 	- Dynamic interface serving system call information
 	- 38 hour project
-
-## Personal Skills
-
-- Well developed process for communicating about software development and design in clear and explicit ways from peer to peer learning system.
-
-- Coming from and entirely self-driven education as a self motivated learner, worker, and maker.
-
-- Experienced with stress testing software for edge cases and finding weak points in program design.
-
-- Communication and dynamically allocating workload amongst a team.
-
-- Dedicated, loyal, and hardworking team member on all projects I take part in.
