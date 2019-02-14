@@ -45,7 +45,7 @@ Personal Email:	scmonroe96@gmail.com
 - Label system capable of **forward and backward declarations**
 - Two pass system:
 	- Instructions are digested into machine code as encountered
-	- Label addresses are calculated and stored seperately
+	- Label addresses are calculated and stored separately
 	- Label references are filled with 0's in the outfile buffer
 	- Blanks are filled with address offsets in second pass using table of labels
 - Upon syntax error, message is printed containing the failing syntax and line number in file
@@ -104,8 +104,8 @@ Personal Email:	scmonroe96@gmail.com
 
 # Personal Skills
 
-- Clear and conscise communicator concerning software development and design thanks to a peer to peer education system
-- The most common question I recieve is `Hey Steven, can you come break this?`
+- Clear and concise communicator concerning software development and design thanks to a peer to peer education system
+- The most common question I hear is `Hey Steven, can you come break this?`
 - Self-motivated learner worker and maker with a project based self-driven educational background
 - Often sought out by peers for help finding, explaining, and fixing bugs in software
 - Passionate about stress-testing software and exercising deep corner cases
