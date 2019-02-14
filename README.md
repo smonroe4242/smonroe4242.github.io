@@ -13,7 +13,7 @@ Personal Email:	scmonroe96@gmail.com
 - **42 School Silicon Valley** (Ecole 42)
 	- March 2018 - Current
 - State College of Florida
-	- August 2010 - December 2017
+	- August 2010 - May 2013 && August 2017 - December 2017
 - New College of Florida
 	- August 2015 - May 2017
 - HarvardX Online CS50 course
